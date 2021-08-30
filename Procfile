@@ -1,1 +1,1 @@
-<build webpack>: <npm run-script watch>
+web: npm run-script watch
